@@ -49,7 +49,7 @@ This portfolio version demonstrates the methodology using a representative selec
 | A5.17 | Authentication information | MFA enforced for all accounts through Conditional Access. Password policy minimum 12 characters | Conditional Access policy screenshots, MFA registration report | Implemented |
 | A5.19 | Information security in supplier relationships | Supplier Security Policy with questionnaire for vendors. Contractual security clauses included | Supplier register, signed supplier agreements | Partially Implemented |
 | A5.24 | Information security incident management planning | Incident Response Procedure documented with severity classification, escalation paths, and post-incident review | Incident Response Procedure, incident log | Implemented |
-| A5.29 | Information security during disruption | Business Continuity Plan with RTO and RPO defined per service | BCP document, annual test results | Partially Implemented |
+| A5.29 | Information security during disruption | Business Continuity Plan documented. RTO and RPO framework established, with service-specific targets and annual testing still to be completed. | BCP document; service-specific RTO/RPO approval and annual test evidence pending | Partially Implemented |
 | A5.31 | Legal, statutory, regulatory and contractual requirements | UK GDPR compliance programme, Data Protection Act 2018 registration, and client contract review | ICO registration, legal register, contract templates | Implemented |
 
 ---
